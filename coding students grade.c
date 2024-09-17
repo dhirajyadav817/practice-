@@ -22,7 +22,7 @@ else if(p>=40)
 {
 printf("the class is pass");
 }
-else (p<40)
+else
 {
 printf("the class is fail");}
 getch();
