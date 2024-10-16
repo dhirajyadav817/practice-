@@ -6,7 +6,7 @@ int bs;
 clrscr();
 printf("enter basic salary\n");
 scanf("%d",&bs);
-if(bs>5000)
+if(bs>=5000)
 {
 printf("Bonus is 500");
 }
